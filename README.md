@@ -10,5 +10,5 @@ I am a final-year student currently seeking a mandatory internship relevant to m
 
 I recently finished a voluntary research internship in Machine Learning at the [Natural Language Processing Centre](https://www.fi.muni.cz/research/laboratories/nlp.html)
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Wasik%20Mahir-0A66C2?style=flat&logo=linkedin)](YOUR_LINKEDIN)
+[![LinkedIn]([https://img.shields.io/badge/LinkedIn-Wasik%20Mahir-0A66C2?style=flat&logo=linkedin](https://www.linkedin.com/in/52a6aa34bsup))](YOUR_LINKEDIN)
 [![Email](https://img.shields.io/badge/Email-wasikmahir.47@gmail.com-EA4335?style=flat&logo=gmail)](mailto:wasikmahir.47@gmail.com)
