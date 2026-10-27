@@ -1,16 +1,14 @@
-## Hi there 👋
+# Hey 👋, I'm Wasik!
 
-<!--
-**Alph139-a-oVerFl0oW/Alph139-a-oVerFl0oW** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+AI Engineering . Machine Learning . NLP · Computer Vision . GenAI  
+**B.Sc. Artificial Intelligence student** @ Technische Hochschule Deggendorf  
 
-Here are some ideas to get you started:
+Open to internship / Working Student roles. 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+I am a final-year student currently seeking a mandatory internship relevant to my field and will graduate upon completing the internship, with interest in continuing in a full-time position afterward. I enjoy turning AI ideas into scalable, production ready systems that can be used in real-world environments.
+
+I recently finished a voluntary research internship in Machine Learning at the [Natural Language Processing Centre](https://www.fi.muni.cz/research/laboratories/nlp.html)
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Wasik%20Mahir-0A66C2?style=flat&logo=linkedin)](YOUR_LINKEDIN)
+[![Email](https://img.shields.io/badge/Email-wasikmahir.47@gmail.com-EA4335?style=flat&logo=gmail)](mailto:wasikmahir.47@gmail.com)
